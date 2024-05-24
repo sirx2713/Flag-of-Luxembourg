@@ -1,6 +1,7 @@
 body{
     font-family: sans-serif;
     background-color: #003C43;
+    text-transform: uppercase;
     color: white;
 }
 #main{
