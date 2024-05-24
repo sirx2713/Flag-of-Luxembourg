@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    background-color: #003C43;
+    color: white;
+}
+#main{
+    display: grid;
+    grid-template-columns: 1200px;
+    grid-template-rows: 200px 200px 200px;
+}
+#main > #red-box{
+    background-color: #EA141D;
+}
+#main > #white-box{
+    background-color: white;
+}
+#main > #blue-box{
+    background-color: #51ADDA;
+}
